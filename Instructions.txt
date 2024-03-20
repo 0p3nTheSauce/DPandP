@@ -1,0 +1,5 @@
+Instructions: 
+To use these programs that import from the jcsp library, the decompiled org folder must be present in the same directory.
+You can decompile the .jar files with the command:
+jar xvf filename.jar
+e.g. jar xvf jcsp-1.1-rc4.jar
