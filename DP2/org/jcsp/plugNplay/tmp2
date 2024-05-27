@@ -1,0 +1,2 @@
+ * Prefix is a process which first outputs a given Object and then
+ * copies its input stream of Objects to its output stream.

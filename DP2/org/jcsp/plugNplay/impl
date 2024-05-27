@@ -1,0 +1,7 @@
+ * The following example shows how to use the Nand process in a small program.
+ * The program also uses some of the other building block processes. The
+ * program generates a sequence of numbers,
+ * rounds each odd number down to the nearest even number,
+ * negates them
+ * and prints them to the screen.
+ *

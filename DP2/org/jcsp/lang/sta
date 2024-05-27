@@ -1,0 +1,5 @@
+ * The <tt>static</tt> methods of {@link Channel} construct channels with
+ * either the default semantics or with buffering to user-specified capacity
+ * and a range of blocking/overwriting policies.
+ * Various buffering plugins are given in the <TT>org.jcsp.util</TT> package, but
+ * <I>careful users</I> may write their own.

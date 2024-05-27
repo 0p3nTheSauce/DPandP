@@ -1,0 +1,2 @@
+ *               final MouseEvent event = (MouseEvent) mouseEvent.in ().read ();
+ *               switch (event.getID ()) {

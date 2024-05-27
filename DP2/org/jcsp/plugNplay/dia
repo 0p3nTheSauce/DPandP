@@ -1,0 +1,8 @@
+ * <H2>Process Diagram</H2>
+ * <!-- INCORRECT DIAGRAM: <p><IMG SRC="doc-files/Merge21.gif"></p> -->
+ * <PRE>
+ *    in0  ________
+ *   -->--|        | out
+ *    in1 | Merge2 |-->--
+ *   -->--|________|
+ * </PRE>

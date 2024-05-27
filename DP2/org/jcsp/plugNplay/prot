@@ -1,0 +1,25 @@
+ * <H2>Channel Protocols</H2>
+ * <TABLE BORDER="2">
+ *   <TR>
+ *     <TH COLSPAN="3">Input Channels</TH>
+ *   </TR>
+ *   <TR>
+ *     <TH>in0, in1</TH>
+ *     <TD>java.lang.Number</TD>
+ *     <TD>
+ *       Both channels can accept data from any subclass of Number. It is
+ *       possible to send Floats down one channel and Integers down the
+ *       other. However all values will be converted to ints.
+ *     </TD>
+ *   </TR>
+ *   <TR>
+ *     <TH COLSPAN="3">Output Channels</TH>
+ *   </TR>
+ *   <TR>
+ *     <TH>out</TH>
+ *     <TD>java.lang.Integer</TD>
+ *     <TD>
+ *       The output will always be of type Integer.
+ *     </TD>
+ *   </TR>
+ * </TABLE>

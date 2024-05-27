@@ -1,0 +1,6 @@
+ *                   if (event.getClickCount() > 1) {
+ *                     System.out.println ("MOUSE_DOUBLE_CLICKED ... goodbye!");
+ *                     running = false;
+ *                   } else {
+ *                     System.out.println ("MOUSE_CLICKED ... *double* click to quit!");
+ *                   }

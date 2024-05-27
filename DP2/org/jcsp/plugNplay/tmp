@@ -1,0 +1,8 @@
+  /**
+    * Construct the process.
+    * 
+    * @param in the input channel
+    * @param out the output channel
+    * @param initialInterval the initial interval between outputs (in milliseconds)
+    * @param reset send a <tt>Long</tt> down this to change the interval between outputs (in milliseconds)
+    */

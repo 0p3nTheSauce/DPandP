@@ -1,0 +1,3 @@
+ * <p>
+ * A <i>reading-end</i>, obtained from a <i>one-any</i> or <i>any-any</i>
+ * channel by invoking its <tt>in()</tt> method, will implement this interface.

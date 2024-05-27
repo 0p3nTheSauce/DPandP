@@ -1,0 +1,3 @@
+ * <p>
+ * A <i>writing-end</i>, obtained only from a {@link One2OneChannelSymmetricInt <i>symmetric</i>}
+ * channel by invoking its <tt>out()</tt> method, will implement this interface.

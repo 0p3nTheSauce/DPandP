@@ -1,0 +1,3 @@
+      if (in.length < 2) {
+        throw new IllegalArgumentException ("Merge must have at least 2 input channels");
+      }
